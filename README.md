@@ -1,5 +1,4 @@
 <p align="center">
-  <b>My Links:</b><br>
   <a href="https://t.me/ZanborChannel">Channel</a> |
   <a href="https://t.me/ZanborSupport">Support</a> |
   <a href="https://zanbor.de/">Website</a>
