@@ -15,7 +15,7 @@ Hello, by this program which is written in Python and compiled into a Windows pr
 <br>
 ### 📌 Photo:
 <p align="center" width="100%">
-<img width="33%" src="https://raw.githubusercontent.com/khanomzadehh/ScanClearIP/main/Requirements/1.png">
+<img width="100%" src="https://raw.githubusercontent.com/khanomzadehh/ScanClearIP/main/Requirements/1.png">
 </p>
 <br>
 <br>
