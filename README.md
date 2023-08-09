@@ -13,8 +13,6 @@ Hello, by this program which is written in Python and compiled into a Windows pr
 
 ✔️ No limit for any datacenter
 
-✔️ For the restriction of IRAN
-
 ✔️ The best response
 
 <br>
