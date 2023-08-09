@@ -26,7 +26,6 @@ Hello, by this program which is written in Python and compiled into a Windows pr
 
 ✔️ The best response
 
-<br>
 
 ### 📌 Download:
 
