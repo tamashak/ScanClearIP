@@ -18,7 +18,6 @@ Hello, by this program which is written in Python and compiled into a Windows pr
 <img width="100%" src="https://raw.githubusercontent.com/khanomzadehh/ScanClearIP/main/Requirements/1.png">
 </p>
 <br>
-<br>
 
 ### 📌 Features:
 ✔️ Fast scan IP
@@ -32,7 +31,7 @@ Hello, by this program which is written in Python and compiled into a Windows pr
 ### Usages:
 
 ```
-bash <(curl -Ls https://github.com/Quick-Server/Super-SSH-User-Manager/raw/main/install.sh --ipv4)
+After downloading, run the RUN.exe file in the program directory.
 ```
 
-<b>Note:</b> Before installing SSL, please use the installation command. 
+<b>Note:</b> Remember to save the IPs together with any other text in iplist.txt.
