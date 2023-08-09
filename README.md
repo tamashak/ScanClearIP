@@ -1,5 +1,7 @@
 # Powered By https://github.com/khanomzadehh
+
 <br>
+
 Hello, by this program which is written in Python and compiled into a Windows program, you can perform a clean IP scan by adding the IPs containing any text in the list.txt and the automatic program will extract the IPs from the text. It finds and establishes an SSH connection to them one by one, if the connection is established it displays it as CLEAR, otherwise it passes through it. However, you should be careful not to have a VPN connection on Windows running the program, which interferes with finding a clean IP.
 
 ---
@@ -8,11 +10,14 @@ Hello, by this program which is written in Python and compiled into a Windows pr
 
 ### Features:
 ✔️ Fast scan IP
+
 ✔️ No limit for any datacenter
+
 ✔️ For the restriction of IRAN
+
 ✔️ The best response
 
-
+<br>
 
 ### Usages:
 
