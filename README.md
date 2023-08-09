@@ -31,7 +31,7 @@ Hello, by this program which is written in Python and compiled into a Windows pr
 ### Usages:
 
 ```
-After downloading, run the RUN.exe file in the program directory.
+Then download the program from <a href="https://github.com/khanomzadehh/ScanClearIP/releases/download/1.0/1.0.zip"> this link </a> After downloading, run the RUN.exe file in the program directory.
 ```
 
 <b>Note:</b> Remember to save the IPs together with any other text in iplist.txt.
