@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://t.me/ZanborChannel">Channel</a> |
-  <a href="https://t.me/ZanborSupport">Support</a> |
-  <a href="https://zanbor.de/">Website</a>
+  <a href="https://t.me/ZanborSupport">Support</a>
   <br><br>
   <img src="https://media.tenor.com/cTNHiNckhfIAAAAM/minions-strong.gif">
 </p>
